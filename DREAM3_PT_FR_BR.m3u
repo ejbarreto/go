@@ -1,0 +1,981 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1721695" tvg-name="[FR]   PADEL TIME TV" group-title="|FR| ✪ SPORT" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2025/06/padel-time-tv-box-internet-300x158.png",[FR]   PADEL TIME TV
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1721695.ts
+#EXTINF:-1 tvg-id="14539" tvg-name="| FR | GRAND LILLE TV ᵁᴴᴰ" group-title="|FR| ✪ TOUTE LES CHAINES ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/1%20MISSING%20LOGO/FRANCE%20TNT/grandlilletv.png",| FR | GRAND LILLE TV ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/14539.ts
+#EXTINF:-1 tvg-id="abmoteurs.fr" tvg-name="|FR| AB MOTEURS ᵁᴴᴰ" group-title="|FR| ✪ SPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/ABMOTEURHD.png",|FR| AB MOTEURS ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/274847.ts
+#EXTINF:-1 tvg-id="581104" tvg-name="|FR| blue Zoom ᴴᴰ" group-title="|FR| ✪ SPORT" tvg-logo="",|FR| blue Zoom ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/581104.ts
+#EXTINF:-1 tvg-id="sportenfrance.fr" tvg-name="|FR| Sport en France" group-title="|FR| ✪ SPORT" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCEFHD/SPORTENFRANCE.png",|FR| Sport en France
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/92503.ts
+#EXTINF:-1 tvg-id="myzen.fr" tvg-name="|FR| MY ZEN TV ᴴᴰ" group-title="|FR| ✪ SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/My_Zen_Tv_LOGO_Couleur_vide.jpg",|FR| MY ZEN TV ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/146157.ts
+#EXTINF:-1 tvg-id="myzen.fr" tvg-name="|FR| MY ZEN FIT TV ᴴᴰ" group-title="|FR| ✪ SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/My_Zen_Tv_LOGO_Couleur_vide.jpg",|FR| MY ZEN FIT TV ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/264409.ts
+#EXTINF:-1 tvg-id="tracesportstars.fr" tvg-name="|FR| TRACE SPORT STARS ˢᴰ" group-title="|FR| ✪ SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TRACE_Sport_Stars.jpg/150px-TRACE_Sport_Stars.jpg",|FR| TRACE SPORT STARS ˢᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/88767.ts
+#EXTINF:-1 tvg-id="150427" tvg-name="|FR| GOURMAND TV ᴴᴰ" group-title="|FR| ✪ SPORT" tvg-logo="http://103.161.34.238/dreamtv/tv/GOURMAND.png",|FR| GOURMAND TV ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/150427.ts
+#EXTINF:-1 tvg-id="92493" tvg-name="|FR| Winamax TV" group-title="|FR| ✪ SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1a/Logo_Winamax.svg/langfr-1024px-Logo_Winamax.svg.png",|FR| Winamax TV
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/92493.ts
+#EXTINF:-1 tvg-id="1877406" tvg-name="|FR| EUROSPORT 360 1" group-title="|FR| ✪ EUROSPORT 360" tvg-logo="",|FR| EUROSPORT 360 1
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1877406.ts
+#EXTINF:-1 tvg-id="1877407" tvg-name="|FR| EUROSPORT 360 2" group-title="|FR| ✪ EUROSPORT 360" tvg-logo="",|FR| EUROSPORT 360 2
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1877407.ts
+#EXTINF:-1 tvg-id="1877408" tvg-name="|FR| EUROSPORT 360 3" group-title="|FR| ✪ EUROSPORT 360" tvg-logo="",|FR| EUROSPORT 360 3
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1877408.ts
+#EXTINF:-1 tvg-id="1877409" tvg-name="|FR| EUROSPORT 360 4" group-title="|FR| ✪ EUROSPORT 360" tvg-logo="",|FR| EUROSPORT 360 4
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1877409.ts
+#EXTINF:-1 tvg-id="1877410" tvg-name="|FR| EUROSPORT 360 5" group-title="|FR| ✪ EUROSPORT 360" tvg-logo="",|FR| EUROSPORT 360 5
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1877410.ts
+#EXTINF:-1 tvg-id="1877411" tvg-name="|FR| EUROSPORT 360 6" group-title="|FR| ✪ EUROSPORT 360" tvg-logo="",|FR| EUROSPORT 360 6
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1877411.ts
+#EXTINF:-1 tvg-id="1877412" tvg-name="|FR| EUROSPORT 360 7" group-title="|FR| ✪ EUROSPORT 360" tvg-logo="",|FR| EUROSPORT 360 7
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1877412.ts
+#EXTINF:-1 tvg-id="1877413" tvg-name="|FR| EUROSPORT 360 8" group-title="|FR| ✪ EUROSPORT 360" tvg-logo="",|FR| EUROSPORT 360 8
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1877413.ts
+#EXTINF:-1 tvg-id="1877414" tvg-name="|FR| EUROSPORT 360 9" group-title="|FR| ✪ EUROSPORT 360" tvg-logo="",|FR| EUROSPORT 360 9
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1877414.ts
+#EXTINF:-1 tvg-id="1877415" tvg-name="|FR| EUROSPORT 360 10" group-title="|FR| ✪ EUROSPORT 360" tvg-logo="",|FR| EUROSPORT 360 10
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1877415.ts
+#EXTINF:-1 tvg-id="1877416" tvg-name="|FR| EUROSPORT 360 11" group-title="|FR| ✪ EUROSPORT 360" tvg-logo="",|FR| EUROSPORT 360 11
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1877416.ts
+#EXTINF:-1 tvg-id="1877417" tvg-name="|FR| EUROSPORT 360 12" group-title="|FR| ✪ EUROSPORT 360" tvg-logo="",|FR| EUROSPORT 360 12
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1877417.ts
+#EXTINF:-1 tvg-id="1877418" tvg-name="|FR| EUROSPORT 360 13" group-title="|FR| ✪ EUROSPORT 360" tvg-logo="",|FR| EUROSPORT 360 13
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1877418.ts
+#EXTINF:-1 tvg-id="1877419" tvg-name="|FR| EUROSPORT 360 14" group-title="|FR| ✪ EUROSPORT 360" tvg-logo="",|FR| EUROSPORT 360 14
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1877419.ts
+#EXTINF:-1 tvg-id="1877420" tvg-name="|FR| EUROSPORT 360 15" group-title="|FR| ✪ EUROSPORT 360" tvg-logo="",|FR| EUROSPORT 360 15
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1877420.ts
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="|FR| Infosport+ ᴴᴰ" group-title="|FR| ✪ SPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/INFOSPORT+HD.png",|FR| Infosport+ ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/240.ts
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="|FR|  INFOSPORT+ ᵁᴴᴰ" group-title="|FR| ✪ SPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/INFOSPORT+HD.png",|FR|  INFOSPORT+ ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/32840.ts
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="|FR|  INFOSPORTS+ ᵁᴴᴰ" group-title="|FR| ✪ SPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/INFOSPORT+HD.png",|FR|  INFOSPORTS+ ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/274704.ts
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="|FR| INFOSPORT  ˢᴰ" group-title="|FR| ✪ SPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/INFOSPORT+HD.png",|FR| INFOSPORT  ˢᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/12834.ts
+#EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="|FR| L\'EQUIPE ᵁᴴᴰ" group-title="|FR| ✪ SPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/LEQUIPE21HD.png",|FR| L\'EQUIPE ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/250661.ts
+#EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="|FR| L Equipe 21 ᴴᴰ" group-title="|FR| ✪ SPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/LEQUIPE21HD.png",|FR| L Equipe 21 ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/237.ts
+#EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="|FR| L EQUIPE TV ᵁᴴᴰ" group-title="|FR| ✪ SPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/LEQUIPE21HD.png",|FR| L EQUIPE TV ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/32841.ts
+#EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="|FR| L EQUIPE 21 ˢᴰ" group-title="|FR| ✪ SPORT" tvg-logo="http://138.199.27.237:8080/0tv_logo/5095.png",|FR| L EQUIPE 21 ˢᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/12832.ts
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="|FR| EUROSPORT 1 ᵁᴴᴰ" group-title="|FR| ✪ EUROSPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT1HD.png",|FR| EUROSPORT 1 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/250665.ts
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="|FR| Eurosport 1 ᴴᴰ" group-title="|FR| ✪ EUROSPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT1HD.png",|FR| Eurosport 1 ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/238.ts
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="|FR|  EUROSPORT 1 ᵁᴴᴰ" group-title="|FR| ✪ EUROSPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT1HD.png",|FR|  EUROSPORT 1 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/32842.ts
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="|FR| EUROSPORT 1 ˢᴰ" group-title="|FR| ✪ EUROSPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT1HD.png",|FR| EUROSPORT 1 ˢᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/12855.ts
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="|FR| EUROSPORT 2 ᵁᴴᴰ" group-title="|FR| ✪ EUROSPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT2HD.png",|FR| EUROSPORT 2 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/250664.ts
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="|FR| Eurosport 2 ᴴᴰ" group-title="|FR| ✪ EUROSPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT2HD.png",|FR| Eurosport 2 ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/239.ts
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="|FR| EUROSPORT 2 ᵁᴴᴰ" group-title="|FR| ✪ EUROSPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT2HD.png",|FR| EUROSPORT 2 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/32843.ts
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="|FR| EUROSPORT 2 ˢᴰ" group-title="|FR| ✪ EUROSPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT2HD.png",|FR| EUROSPORT 2 ˢᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/12854.ts
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="|FR| Equidia Live ᴴᴰ" group-title="|FR| ✪ SPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/EQUIDIAHD.png",|FR| Equidia Live ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/243.ts
+#EXTINF:-1 tvg-id="equidialive.fr" tvg-name="|FR| Equidia Life ᴴᴰ" group-title="|FR| ✪ SPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/EQUIDIAHD.png",|FR| Equidia Life ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/244.ts
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="|FR| EQUIDIA ᵁᴴᴰ" group-title="|FR| ✪ SPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/EQUIDIAHD.png",|FR| EQUIDIA ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/35526.ts
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="|FR| EQUIDIA LIVE ˢᴰ" group-title="|FR| ✪ SPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/EQUIDIAHD.png",|FR| EQUIDIA LIVE ˢᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/12857.ts
+#EXTINF:-1 tvg-id="automotolachaine.fr" tvg-name="|FR| AUTOMOTO" group-title="|FR| ✪ SPORT" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/AUTOMOTO.png",|FR| AUTOMOTO
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/10173.ts
+#EXTINF:-1 tvg-id="automotolachaine.fr" tvg-name="|FR| TV MONACO" group-title="|FR| ✪ SPORT" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/AUTOMOTO.png",|FR| TV MONACO
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/12905.ts
+#EXTINF:-1 tvg-id="oltv.fr" tvg-name="|FR| OL TV ᴴᴰ" group-title="|FR| ✪ SPORT" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/OL-TV.png",|FR| OL TV ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/8200.ts
+#EXTINF:-1 tvg-id="sportenfrance.fr" tvg-name="|FR| Sport En France ᴴᴰ" group-title="|FR| ✪ SPORT" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCEFHD/SPORTENFRANCE.png",|FR| Sport En France ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/50401.ts
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="|FR| GOLF+ ᵁᴴᴰ" group-title="|FR| ✪ SPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/GOLF+.png",|FR| GOLF+ ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/250662.ts
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="|FR| Golf+ ᴴᴰ" group-title="|FR| ✪ SPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/GOLF+.png",|FR| Golf+ ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/242.ts
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="|FR| GOLF+ ᵁᴴᴰ" group-title="|FR| ✪ SPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/GOLF+.png",|FR| GOLF+ ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/32844.ts
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="|FR| GOLF+  ˢᴰ" group-title="|FR| ✪ SPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/GOLF+.png",|FR| GOLF+  ˢᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/12841.ts
+#EXTINF:-1 tvg-id="golfchannel.fr" tvg-name="|FR| Golf Channel ᵁᴴᴰ" group-title="|FR| ✪ SPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/GOLFCHANNELHD.png",|FR| Golf Channel ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/274850.ts
+#EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="|FR| L Equipe 21 ᵁᴴᴰ" group-title="|FR| ✪ SPORT" tvg-logo="http://138.199.27.237:8080/0tv_logo/5095.png",|FR| L Equipe 21 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1241.ts
+#EXTINF:-1 tvg-id="1062625" tvg-name="[FR] CHEVAL TV HD" group-title="|FR| ✪ SPORT" tvg-logo="https://s9.gifyu.com/images/SZISv.png",[FR] CHEVAL TV HD
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1062625.ts
+#EXTINF:-1 tvg-id="1157424" tvg-name="fr| MySports 10 HD" group-title="|FR| ✪ MYSPORTS" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2017/10/14114607/MySports.png",fr| MySports 10 HD
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1157424.ts
+#EXTINF:-1 tvg-id="1157400" tvg-name="fr| MySports 2 HD" group-title="|FR| ✪ MYSPORTS" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2017/10/14114607/MySports.png",fr| MySports 2 HD
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1157400.ts
+#EXTINF:-1 tvg-id="1157403" tvg-name="fr| MySports 3 HD" group-title="|FR| ✪ MYSPORTS" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2017/10/14114607/MySports.png",fr| MySports 3 HD
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1157403.ts
+#EXTINF:-1 tvg-id="1157406" tvg-name="fr| MySports 4 HD" group-title="|FR| ✪ MYSPORTS" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2017/10/14114607/MySports.png",fr| MySports 4 HD
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1157406.ts
+#EXTINF:-1 tvg-id="1157409" tvg-name="fr| MySports 5 HD" group-title="|FR| ✪ MYSPORTS" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2017/10/14114607/MySports.png",fr| MySports 5 HD
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1157409.ts
+#EXTINF:-1 tvg-id="1157412" tvg-name="fr| MySports 6 HD" group-title="|FR| ✪ MYSPORTS" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2017/10/14114607/MySports.png",fr| MySports 6 HD
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1157412.ts
+#EXTINF:-1 tvg-id="1157415" tvg-name="fr| MySports 7 HD" group-title="|FR| ✪ MYSPORTS" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2017/10/14114607/MySports.png",fr| MySports 7 HD
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1157415.ts
+#EXTINF:-1 tvg-id="1157418" tvg-name="fr| MySports 8 HD" group-title="|FR| ✪ MYSPORTS" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2017/10/14114607/MySports.png",fr| MySports 8 HD
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1157418.ts
+#EXTINF:-1 tvg-id="1157421" tvg-name="fr| MySports 9 HD" group-title="|FR| ✪ MYSPORTS" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2017/10/14114607/MySports.png",fr| MySports 9 HD
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1157421.ts
+#EXTINF:-1 tvg-id="1157428" tvg-name="fr| MySports UN HD" group-title="|FR| ✪ MYSPORTS" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2017/10/14114607/MySports.png",fr| MySports UN HD
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1157428.ts
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="|UK| PREMIER SPORTS 1 ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/PREMIERSPORT.png",|UK| PREMIER SPORTS 1 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/54878.ts
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="|UK| PREMIER SPORTS 2 ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/PREMIERSPORT.png",|UK| PREMIER SPORTS 2 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/54879.ts
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="|UK| PREMIER SPORTS 3 ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/PREMIERSPORT.png",|UK| PREMIER SPORTS 3 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/54885.ts
+#EXTINF:-1 tvg-id="522060" tvg-name="|UK| TNT Sport Ultimate ULTRA ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="",|UK| TNT Sport Ultimate ULTRA ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/522060.ts
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="|UK| TNT SPORTS 1 ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/TNTSPORTS.png",|UK| TNT SPORTS 1 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/309615.ts
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="|UK|  TNT SPORT 1" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png",|UK|  TNT SPORT 1
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/77413.ts
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="|UK| TNT SPORTS 2 ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/TNTSPORTS.png",|UK| TNT SPORTS 2 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/309616.ts
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="|UK|  TNT SPORT 2" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png",|UK|  TNT SPORT 2
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/77414.ts
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="|UK| TNT SPORTS 3 ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/TNTSPORTS.png",|UK| TNT SPORTS 3 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/309617.ts
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="|UK| TNT SPORT  3" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png",|UK| TNT SPORT  3
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/77415.ts
+#EXTINF:-1 tvg-id="tntsports4.uk" tvg-name="|UK| TNT SPORTS 4 ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/TNTSPORTS.png",|UK| TNT SPORTS 4 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/309618.ts
+#EXTINF:-1 tvg-id="tntsports4.uk" tvg-name="|UK| TNT SPORTS 4" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png",|UK| TNT SPORTS 4
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/10510.ts
+#EXTINF:-1 tvg-id="tntsportboxoffice1.uk" tvg-name="|UK| TNT SPORTS BOX OFFICE ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/TNT_Sports_Box_Office.jpeg",|UK| TNT SPORTS BOX OFFICE ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/484345.ts
+#EXTINF:-1 tvg-id="tntsportboxoffice1.uk" tvg-name="|UK| TNT SPORTS BOX OFFICE ᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/TNT_Sports_Box_Office.jpeg",|UK| TNT SPORTS BOX OFFICE ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/484352.ts
+#EXTINF:-1 tvg-id="tntsportboxoffice1.uk" tvg-name="|UK|  TNT SPORTS BOX OFFICE ˢᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/TNT_Sports_Box_Office.jpeg",|UK|  TNT SPORTS BOX OFFICE ˢᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/484356.ts
+#EXTINF:-1 tvg-id="1149027" tvg-name="PPV| SKY BOX OFFICE 1 [EVENT ONLY] ᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Sky_Sports_Box_Office.png",PPV| SKY BOX OFFICE 1 [EVENT ONLY] ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1149027.ts
+#EXTINF:-1 tvg-id="1149028" tvg-name="PPV| SKY BOX OFFICE 1 [EVENT ONLY] Sᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Sky_Sports_Box_Office.png",PPV| SKY BOX OFFICE 1 [EVENT ONLY] Sᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1149028.ts
+#EXTINF:-1 tvg-id="309460" tvg-name="|UK| LA LIGATV ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/LALIGATV.png",|UK| LA LIGATV ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/309460.ts
+#EXTINF:-1 tvg-id="511024" tvg-name="|UK| LA LIGATV ᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/LALIGATV.png",|UK| LA LIGATV ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/511024.ts
+#EXTINF:-1 tvg-id="dazn1.uk" tvg-name="|UK| DAZN PPV FHD" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/DAZNPPV.png",|UK| DAZN PPV FHD
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/302936.ts
+#EXTINF:-1 tvg-id="250299" tvg-name="|UK| DAZN RED BULL TV" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/REDBULLTV.png",|UK| DAZN RED BULL TV
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/250299.ts
+#EXTINF:-1 tvg-id="403782" tvg-name="|UK| DAZN UNBEATEN" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/ITALY/DAZN.png",|UK| DAZN UNBEATEN
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/403782.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="|UK| BEIN SPORT" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/BEINSPORTSEN.png",|UK| BEIN SPORT
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/403757.ts
+#EXTINF:-1 tvg-id="403758" tvg-name="|UK| BEIN SPORT 2" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/BEINSPORTSEN.png",|UK| BEIN SPORT 2
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/403758.ts
+#EXTINF:-1 tvg-id="403759" tvg-name="|UK| BEIN SPORT 3" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/BEINSPORTSEN.png",|UK| BEIN SPORT 3
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/403759.ts
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="|UK| SKY SPORTS FOOTBALL ᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSFOOTBALL.png",|UK| SKY SPORTS FOOTBALL ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/10516.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="|UK| SKY SPORTS NEWS ᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSNEWS.png",|UK| SKY SPORTS NEWS ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/10512.ts
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="|UK| SKY SPORTS RACING ᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSRACING.png",|UK| SKY SPORTS RACING ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/48169.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="|UK| SKY SPORTS CRICKET ᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSCRICKET.png",|UK| SKY SPORTS CRICKET ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/10527.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="|UK| SKY SPORTS CRICKET ˢᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSCRICKET.png",|UK| SKY SPORTS CRICKET ˢᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/10526.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="|UK| SKY SPORTS F1 ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSF1.png",|UK| SKY SPORTS F1 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/303265.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="|UK| SKY SPORTS F1 ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSF1.png",|UK| SKY SPORTS F1 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/50276.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="|UK| SKY SPORTS F1 ᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSF1.png",|UK| SKY SPORTS F1 ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/10525.ts
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="|UK| SKY SPORTS ARENA ᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSARENA.png",|UK| SKY SPORTS ARENA ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/10528.ts
+#EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-name="|UK| SKY SPORTS NFL ᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSNFL.png",|UK| SKY SPORTS NFL ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/10529.ts
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="|UK| SKY SPORTS PREMIER LEAGUE ᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSPREMIERLEAGUE.png",|UK| SKY SPORTS PREMIER LEAGUE ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/10511.ts
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="|UK| SKY SPORTS ᵁᴴᴰ PREMIER LEAGUE" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSPREMIERLEAGUE.png",|UK| SKY SPORTS ᵁᴴᴰ PREMIER LEAGUE
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/10517.ts
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="|UK| SKY SPORTS MAIN EVENT ᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSMAINEVENT.png",|UK| SKY SPORTS MAIN EVENT ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/10514.ts
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="|UK| SKY SPORTS ᵁᴴᴰ MAIN EVENT ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSMAINEVENT.png",|UK| SKY SPORTS ᵁᴴᴰ MAIN EVENT ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/10518.ts
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="|UK| SKY SPORTS GOLF ᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSGOLF.png",|UK| SKY SPORTS GOLF ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/10515.ts
+#EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-name="|UK| SKY SPORTS NFL" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSNFL.png",|UK| SKY SPORTS NFL
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/91620.ts
+#EXTINF:-1 tvg-id="skysportstennis.uk" tvg-name="UK Sky Sports Tennis ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/2560px-Sky_Sport_Tennis.svg.png",UK Sky Sports Tennis ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/605469.ts
+#EXTINF:-1 tvg-id="skysportstennis.uk" tvg-name="UK Sky Sports Tennis ᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/2560px-Sky_Sport_Tennis.svg.png",UK Sky Sports Tennis ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/605470.ts
+#EXTINF:-1 tvg-id="skysportstennis.uk" tvg-name="UK Sky Sports Tennis ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/2560px-Sky_Sport_Tennis.svg.png",UK Sky Sports Tennis ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/605472.ts
+#EXTINF:-1 tvg-id="skysportstennis.uk" tvg-name="UK Sky Sports Tennis ˢᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/2560px-Sky_Sport_Tennis.svg.png",UK Sky Sports Tennis ˢᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/605471.ts
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="|UK| PREMIER SPORTS ᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/PREMIERSPORT.png",|UK| PREMIER SPORTS ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/10506.ts
+#EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-name="|UK| SKY SPORTS ᵁᴴᴰ NFL" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSNFL.png",|UK| SKY SPORTS ᵁᴴᴰ NFL
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/10524.ts
+#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="|UK| LFC TV ᵁᴴᴰ (D)" group-title="|UK| ✪ SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png",|UK| LFC TV ᵁᴴᴰ (D)
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/54897.ts
+#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="|UK| LIVERPOOL FC TV" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/LIVERPOOL.png",|UK| LIVERPOOL FC TV
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/91624.ts
+#EXTINF:-1 tvg-id="91617" tvg-name="|UK| Rangers" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/RANGERS.png",|UK| Rangers
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/91617.ts
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="|UK| MUTV ᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/MUTV.png",|UK| MUTV ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/10501.ts
+#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="|UK|  LIVERPOOL TV" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/LIVERPOOL.png",|UK|  LIVERPOOL TV
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/77412.ts
+#EXTINF:-1 tvg-id="1060569" tvg-name="TT RACES01" group-title="|UK| ✪ SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/i3vnnb1582236368.png",TT RACES01
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1060569.ts
+#EXTINF:-1 tvg-id="1060570" tvg-name="TT RACES02" group-title="|UK| ✪ SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/i3vnnb1582236368.png",TT RACES02
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1060570.ts
+#EXTINF:-1 tvg-id="1060571" tvg-name="TT RACES03" group-title="|UK| ✪ SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/i3vnnb1582236368.png",TT RACES03
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1060571.ts
+#EXTINF:-1 tvg-id="613134" tvg-name="|UK| F1" group-title="|UK| ✪ SPORTS" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/10/30121309/F1-on-DAZN.jpg",|UK| F1
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/613134.ts
+#EXTINF:-1 tvg-id="613135" tvg-name="|UK| F1." group-title="|UK| ✪ SPORTS" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/10/30121309/F1-on-DAZN.jpg",|UK| F1.
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/613135.ts
+#EXTINF:-1 tvg-id="1095188" tvg-name="UK Sky Sports 1 ULTRA ᵁᴴᴰ  (ACC)" group-title="|UK| ✪ SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png/800px-Sky_Sport_UHD_DE_Logo_09_2020.png",UK Sky Sports 1 ULTRA ᵁᴴᴰ  (ACC)
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1095188.ts
+#EXTINF:-1 tvg-id="1095189" tvg-name="UK Sky Sports 2 ULTRA ᵁᴴᴰ  (ACC)" group-title="|UK| ✪ SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png/800px-Sky_Sport_UHD_DE_Logo_09_2020.png",UK Sky Sports 2 ULTRA ᵁᴴᴰ  (ACC)
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1095189.ts
+#EXTINF:-1 tvg-id="969125" tvg-name="UK | Saudi Pro League" group-title="|UK| ✪ SPORTS" tvg-logo="https://www.gaveanews.com/wp-content/uploads/Saudi-Pro-League.png",UK | Saudi Pro League
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/969125.ts
+#EXTINF:-1 tvg-id="969124" tvg-name="UK | Saudi Pro League" group-title="|UK| ✪ SPORTS" tvg-logo="https://www.gaveanews.com/wp-content/uploads/Saudi-Pro-League.png",UK | Saudi Pro League
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/969124.ts
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="|UK| PREMIER SPORTS 1 ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/PREMIERSPORT.png",|UK| PREMIER SPORTS 1 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/303258.ts
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="|UK| PREMIER SPORTS 2 ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/PREMIERSPORT.png",|UK| PREMIER SPORTS 2 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/303257.ts
+#EXTINF:-1 tvg-id="628654" tvg-name="|UK| Racing ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="",|UK| Racing ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/628654.ts
+#EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-name="|UK| SKY SPORTS ACTION / NFL  ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSACTION.png",|UK| SKY SPORTS ACTION / NFL  ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/303264.ts
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="|UK| SKY SPORTS ACTION ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSACTION.png",|UK| SKY SPORTS ACTION ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/50277.ts
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="|UK| SKY SPORTS ARENA ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSARENA.png",|UK| SKY SPORTS ARENA ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/303263.ts
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="|UK| SKY SPORTS ARENA ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSARENA.png",|UK| SKY SPORTS ARENA ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/50278.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="|UK| SKY SPORTS CRICKET ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSCRICKET.png",|UK| SKY SPORTS CRICKET ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/303266.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="|UK| SKY SPORTS CRICKET ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSCRICKET.png",|UK| SKY SPORTS CRICKET ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/50274.ts
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="|UK| SKY SPORTS FOOTBALL  ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSFOOTBALL.png",|UK| SKY SPORTS FOOTBALL  ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/50273.ts
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="|UK| SKY SPORTS FOOTBALL 50 FPS" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSFOOTBALL.png",|UK| SKY SPORTS FOOTBALL 50 FPS
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/303268.ts
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="|UK| SKY SPORTS GOLF 50FPS" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSGOLF.png",|UK| SKY SPORTS GOLF 50FPS
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/303267.ts
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="|UK| SKY SPORTS GOLF ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSGOLF.png",|UK| SKY SPORTS GOLF ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/50275.ts
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="|UK| SKY SPORTS MAIN EVENT ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSMAINEVENT.png",|UK| SKY SPORTS MAIN EVENT ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/50271.ts
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="|UK| SKY SPORTS MIX ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSMIX.png",|UK| SKY SPORTS MIX ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/303262.ts
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="|UK| SKY SPORTS MIX ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSMIX.png",|UK| SKY SPORTS MIX ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/10513.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="|UK| SKY SPORTS NEWS  ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSNEWS.png",|UK| SKY SPORTS NEWS  ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/303260.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="|UK| SKY SPORTS NEWS ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSNEWS.png",|UK| SKY SPORTS NEWS ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/50281.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="|UK| SKY SPORTS NEWS ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSNEWS.png",|UK| SKY SPORTS NEWS ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/22202.ts
+#EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-name="|UK| SKY SPORTS NFL ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSNFL.png",|UK| SKY SPORTS NFL ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/138138.ts
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="|UK| SKY SPORTS PREMIER LEAGUE ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSPREMIERLEAGUE.png",|UK| SKY SPORTS PREMIER LEAGUE ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/50272.ts
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="|UK| SKY SPORTS PREMIER LEAUGE 50FPS" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSPREMIERLEAGUE.png",|UK| SKY SPORTS PREMIER LEAUGE 50FPS
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/303269.ts
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="|UK| SKY SPORTS RACING ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSRACING.png",|UK| SKY SPORTS RACING ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/303261.ts
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="|UK| SKY SPORTS RACING ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSRACING.png",|UK| SKY SPORTS RACING ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/50280.ts
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="|UK| SKY SPORTS RACING ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSRACING.png",|UK| SKY SPORTS RACING ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/48168.ts
+#EXTINF:-1 tvg-id="1076470" tvg-name="|UK| Sky Sports F1 UHD" group-title="|UK| ✪ SPORTS" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blta9409abe5001a140/6400bce3ec12cd34d006003f/Sky_Sports_F1_UHD_PRIMARY_RGB.png",|UK| Sky Sports F1 UHD
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1076470.ts
+#EXTINF:-1 tvg-id="1076471" tvg-name="|UK| Sports Main Event ULTRA ᵁᴴᴰ (AAC)" group-title="|UK| ✪ SPORTS" tvg-logo="https://archive.org/download/sky-sports-main-event-uhd//Sky_Sports_Main_Event_UHD.png",|UK| Sports Main Event ULTRA ᵁᴴᴰ (AAC)
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1076471.ts
+#EXTINF:-1 tvg-id="tntsports5.uk" tvg-name="|UK| TNT SPORT  5" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png",|UK| TNT SPORT  5
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/968928.ts
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="|UK| TNT SPORTS  3 ᵁᴴᴰ 50FPS" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png",|UK| TNT SPORTS  3 ᵁᴴᴰ 50FPS
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/303255.ts
+#EXTINF:-1 tvg-id="tntsports4.uk" tvg-name="|UK| TNT SPORTS  4 ᵁᴴᴰ 50FPS" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png",|UK| TNT SPORTS  4 ᵁᴴᴰ 50FPS
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/303256.ts
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="|UK| TNT SPORTS 1 ᵁᴴᴰ 50FPS" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png",|UK| TNT SPORTS 1 ᵁᴴᴰ 50FPS
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/303270.ts
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="|UK| TNT SPORTS 2 ᵁᴴᴰ 50 FPS" group-title="|UK| ✪ SPORTS" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png",|UK| TNT SPORTS 2 ᵁᴴᴰ 50 FPS
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/303271.ts
+#EXTINF:-1 tvg-id="tntsportboxoffice1.uk" tvg-name="|UK| TNT SPORTS BOX OFFICE ᵁᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/TNT_Sports_Box_Office.jpeg",|UK| TNT SPORTS BOX OFFICE ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/484357.ts
+#EXTINF:-1 tvg-id="1234080" tvg-name="PLL Network" group-title="|UK| ✪ SPORTS" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/1EE99DA8-A888-477C-B04A-6936BE0C43E4/3-1x1.png/900",PLL Network
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1234080.ts
+#EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-name="uk| SKY SPORTS NFL" group-title="|UK| ✪ SPORTS" tvg-logo="https://lo1.in/uk/skyspnf.png",uk| SKY SPORTS NFL
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1148292.ts
+#EXTINF:-1 tvg-id="1063030" tvg-name="UK Matchroom Boxing FHD" group-title="|UK| ✪ SPORTS" tvg-logo="https://i.imgur.com/zHBGA0M.png",UK Matchroom Boxing FHD
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1063030.ts
+#EXTINF:-1 tvg-id="1063029" tvg-name="UK ACL Cornhole TV FHD" group-title="|UK| ✪ SPORTS" tvg-logo="https://s9.gifyu.com/images/Sa4pl.webp",UK ACL Cornhole TV FHD
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1063029.ts
+#EXTINF:-1 tvg-id="1063028" tvg-name="UK Moto America FHD" group-title="|UK| ✪ SPORTS" tvg-logo="https://s9.gifyu.com/images/Sa4hl.png",UK Moto America FHD
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1063028.ts
+#EXTINF:-1 tvg-id="1063027" tvg-name="UK Motorvision TV FHD" group-title="|UK| ✪ SPORTS" tvg-logo="https://a.jsrdn.com/hls/22886/motorvision-tv/logo_20221109_195102_63.png",UK Motorvision TV FHD
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1063027.ts
+#EXTINF:-1 tvg-id="1063026" tvg-name="UK PGA TOUR" group-title="|UK| ✪ SPORTS" tvg-logo="https://logo.iptveditor.com/pgatour.png",UK PGA TOUR
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1063026.ts
+#EXTINF:-1 tvg-id="1063024" tvg-name="UK Billiard TV" group-title="|UK| ✪ SPORTS" tvg-logo="https://a.jsrdn.com/hls/22964/billiard-tv/logo_20210622_195956_68.png",UK Billiard TV
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1063024.ts
+#EXTINF:-1 tvg-id="1063023" tvg-name="UK Lacrosse TV" group-title="|UK| ✪ SPORTS" tvg-logo="",UK Lacrosse TV
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1063023.ts
+#EXTINF:-1 tvg-id="1063022" tvg-name="UK PDC Darts" group-title="|UK| ✪ SPORTS" tvg-logo="https://c.ststat.net/content/seetickets/webadminuploads/World%20Championship%201080x1080_wphmEtSdJErKa.jpg",UK PDC Darts
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1063022.ts
+#EXTINF:-1 tvg-id="628657" tvg-name="|UK| Racing UK ˢᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="",|UK| Racing UK ˢᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/628657.ts
+#EXTINF:-1 tvg-id="628656" tvg-name="|UK|Racing ᴴᴰ" group-title="|UK| ✪ SPORTS" tvg-logo="data:image/png;base64,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",|UK|Racing ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/628656.ts
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="|PT|  24 KITCHEN ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/24KITCHENHD.png",|PT|  24 KITCHEN ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156903.ts
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="|PT|  A BOLA TV ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/2157.png",|PT|  A BOLA TV ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156904.ts
+#EXTINF:-1 tvg-id="amchd.pt" tvg-name="|PT|  AMC ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/AMC.png",|PT|  AMC ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156905.ts
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="|PT|  AXN ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/AXNHD.png",|PT|  AXN ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156907.ts
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="|PT|  AXN MOVIES ᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/AXNHD.png",|PT|  AXN MOVIES ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156906.ts
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="|PT|  AXN WHITE ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/AXNWHITE.png",|PT|  AXN WHITE ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156908.ts
+#EXTINF:-1 tvg-id="blaze.pt" tvg-name="|PT|  BLAZE ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/BLAZE.png",|PT|  BLAZE ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156909.ts
+#EXTINF:-1 tvg-id="canal11.pt" tvg-name="|PT|  CANAL 11 ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5016.png",|PT|  CANAL 11 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156911.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="|PT|  CINEMUNDO ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/CINEMUNDO.png",|PT|  CINEMUNDO ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156912.ts
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="|PT|  CMTV ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/CMTV.png",|PT|  CMTV ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156913.ts
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="|PT|  DISCOVERY CHANNEL ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/DISCOVERYHD.png",|PT|  DISCOVERY CHANNEL ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156914.ts
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="|PT| ELEVEN SPORTS 1 ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/ELEVENSPORT.png",|PT| ELEVEN SPORTS 1 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156915.ts
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="|PT|  ELEVEN SPORTS 2 ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/ELEVENSPORT.png",|PT|  ELEVEN SPORTS 2 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156916.ts
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="|PT|  ELEVEN SPORTS 3 ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/ELEVENSPORT.png",|PT|  ELEVEN SPORTS 3 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156917.ts
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="|PT|  ELEVEN SPORTS 4 ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/ELEVENSPORT.png",|PT|  ELEVEN SPORTS 4 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156918.ts
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="|PT|  ELEVEN SPORTS 5 ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/ELEVENSPORT.png",|PT|  ELEVEN SPORTS 5 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156919.ts
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="|PT|  ELEVEN SPORTS 6 ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/ELEVENSPORT.png",|PT|  ELEVEN SPORTS 6 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156920.ts
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="|PT|  EUROSPORT 1 ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/EUROSPORT1.png",|PT|  EUROSPORT 1 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156921.ts
+#EXTINF:-1 tvg-id="156922" tvg-name="|PT|  FIGHT NETWORK ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/FIGHTNETWORK.png",|PT|  FIGHT NETWORK ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156922.ts
+#EXTINF:-1 tvg-id="foodnetwork.pt" tvg-name="|PT|  FOOD NETWORK ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/FOODNETWORK.png",|PT|  FOOD NETWORK ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156923.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="|PT|  FOX ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/FOXHD.png",|PT|  FOX ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156926.ts
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="|PT|  FOX COMEDY ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/FOXCOMEDY.png",|PT|  FOX COMEDY ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156924.ts
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="|PT|  FOX CRIME ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/FOXCRIME.png",|PT|  FOX CRIME ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156925.ts
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="|PT|  FOX LIFE ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/FOXHD.png",|PT|  FOX LIFE ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156927.ts
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="|PT|  FOX MOVIES ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/FOXMOVIES.png",|PT|  FOX MOVIES ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156928.ts
+#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="|PT|  FUEL TV ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/FUELTV.png",|PT|  FUEL TV ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156929.ts
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="|PT|  HOLLYWOOD ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/HOLLYWOOD.png",|PT|  HOLLYWOOD ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156930.ts
+#EXTINF:-1 tvg-id="156931" tvg-name="|PT|  ICONCERTS ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://mytvservices.us:8080/images/PNloraZl_34fTzt064WXymiJmRS7_DVEujMQRdVFbU9FSZS7lhNH4CteTm5b4vMP.png",|PT|  ICONCERTS ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156931.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="|PT|  ID INVESTIGATION DISCOVERY ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/IDINVESTIGATIONDISCOVERY.png",|PT|  ID INVESTIGATION DISCOVERY ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156932.ts
+#EXTINF:-1 tvg-id="mtv.pt" tvg-name="|PT|  MTV PORTUGAL  ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/MTVPORTUGAL.png",|PT|  MTV PORTUGAL  ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156933.ts
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="|PT|  NAT GEO ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5079.png",|PT|  NAT GEO ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156934.ts
+#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="|PT|  NAT GEO WILD ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png",|PT|  NAT GEO WILD ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156935.ts
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="|PT|  NBA ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png",|PT|  NBA ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156936.ts
+#EXTINF:-1 tvg-id="nosstudioshd.pt" tvg-name="|PT|  NOS STUDIOS ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/nos.png",|PT|  NOS STUDIOS ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156937.ts
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="|PT|  ODISSEIA ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/ODISSEIA.png",|PT|  ODISSEIA ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156938.ts
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="|PT|   PORTO CANAL  ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/PORTOCANAL.png",|PT|   PORTO CANAL  ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156939.ts
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="|PT|  RTP 1 ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/RTP1.png",|PT|  RTP 1 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156940.ts
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="|PT|  RTP 2 ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/RTP2.png",|PT|  RTP 2 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156941.ts
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="|PT|  RTP 3 ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/RTP3.png",|PT|  RTP 3 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156942.ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="|PT|  SIC ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SIC.png",|PT|  SIC ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156945.ts
+#EXTINF:-1 tvg-id="siccaras.pt" tvg-name="|PT|  SIC CARAS ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SICCARAS.png",|PT|  SIC CARAS ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156944.ts
+#EXTINF:-1 tvg-id="sick.pt" tvg-name="|PT|  SIC KIDS ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SICK.png",|PT|  SIC KIDS ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156946.ts
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="|PT|  SIC MULHER ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SICMULHER.png",|PT|  SIC MULHER ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156947.ts
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="|PT|  SIC NOTICIAS ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SICNOTICIAS.png",|PT|  SIC NOTICIAS ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156948.ts
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="|PT|  SIC RADICAL ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SICRADICAL.png",|PT|  SIC RADICAL ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156949.ts
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="|PT|  SPORTING TV ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV.png",|PT|  SPORTING TV ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156950.ts
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="|PT|  SPORT TV+ ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV.png",|PT|  SPORT TV+ ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156951.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="|PT|  SPORT TV 1 ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV.png",|PT|  SPORT TV 1 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156952.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="|PT|  SPORT TV 2 ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV.png",|PT|  SPORT TV 2 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156953.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="|PT|  SPORT TV 2 ᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV.png",|PT|  SPORT TV 2 ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156954.ts
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="|PT|  SPORT TV 3 ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV3.png",|PT|  SPORT TV 3 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156955.ts
+#EXTINF:-1 tvg-id="156956" tvg-name="|PT|  SPORT TV 4 ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV.png",|PT|  SPORT TV 4 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156956.ts
+#EXTINF:-1 tvg-id="156957" tvg-name="|PT|  SPORT TV 5 ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV5.png",|PT|  SPORT TV 5 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156957.ts
+#EXTINF:-1 tvg-id="276531" tvg-name="|PT| FOOD NETWORK" group-title="|PT| ✪ DOCUMENTARIO" tvg-logo="",|PT| FOOD NETWORK
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/276531.ts
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="|PT|  SYFY ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SYFYHD.png",|PT|  SYFY ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156958.ts
+#EXTINF:-1 tvg-id="traceurban.pt" tvg-name="|PT|  TRACE & URBAN ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TRACEURBAN.png",|PT|  TRACE & URBAN ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156959.ts
+#EXTINF:-1 tvg-id="156960" tvg-name="|PT|  TRACE TOCA" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/traceurban.png",|PT|  TRACE TOCA
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156960.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="|PT|  TVCINE ACTION ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TVCINE1.png",|PT|  TVCINE ACTION ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156961.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="|PT|  TVCINE EDITION ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TVCINE1.png",|PT|  TVCINE EDITION ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156962.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="|PT|  TVCINE EMOTION" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TVCINE1.png",|PT|  TVCINE EMOTION
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156963.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="|PT|  TVCINE EMOTION ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TVCINE1.png",|PT|  TVCINE EMOTION ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156964.ts
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="|PT|  TVCINE TOP ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TVCINE1.png",|PT|  TVCINE TOP ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156965.ts
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="|PT|  TV GLOBO ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/GLOBO.png",|PT|  TV GLOBO ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156966.ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="|PT|  TVI ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/tvi24pitcon.png",|PT|  TVI ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156968.ts
+#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="|PT|  TVI 24 ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TVI24.png",|PT|  TVI 24 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156967.ts
+#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="|PT|  TVI FICCAO ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TVI.png",|PT|  TVI FICCAO ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156969.ts
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="|PT|  TVI REALITY ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TVI.png",|PT|  TVI REALITY ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156970.ts
+#EXTINF:-1 tvg-id="recordtvhd.pt" tvg-name="|PT|  TV RECORD ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://138.199.27.237:8080/PORTUGAL/RECORDHD.png",|PT|  TV RECORD ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156971.ts
+#EXTINF:-1 tvg-id="156972" tvg-name="|PT|  ZAP VIVA ᵁᴴᴰ" group-title="|PT| ✪ PORTUGAL ᵁᴴᴰ/ᴴᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/ZAPVIVA.png",|PT|  ZAP VIVA ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/156972.ts
+#EXTINF:-1 tvg-id="1356851" tvg-name="|PT| NEWS NOW FHD" group-title="|PT| ✪ EMGERAL" tvg-logo="https://lo1.in/por/port.png",|PT| NEWS NOW FHD
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1356851.ts
+#EXTINF:-1 tvg-id="1124121" tvg-name="PT| TVI REALITY-BIG BROTHER FHD" group-title="|PT| ✪ EMGERAL" tvg-logo="https://lo1.in/por/TVI REALITY.png",PT| TVI REALITY-BIG BROTHER FHD
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1124121.ts
+#EXTINF:-1 tvg-id="1124120" tvg-name="PT| TVI REALITY-BIG BROTHER HD" group-title="|PT| ✪ EMGERAL" tvg-logo="https://lo1.in/por/TVI REALITY.png",PT| TVI REALITY-BIG BROTHER HD
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1124120.ts
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="|PT| RTP 1" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/RTP1.png",|PT| RTP 1
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9093.ts
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="|PT| RTP 2 ᴴᴰ" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/RTP2.png",|PT| RTP 2 ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9092.ts
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="|PT| RTP 3" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/RTP3.png",|PT| RTP 3
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9091.ts
+#EXTINF:-1 tvg-id="rtpafrica.pt" tvg-name="|PT| RTP AFRICA" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/RTPAFRICA.png",|PT| RTP AFRICA
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9089.ts
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="|PT| RTP MEMORIA" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/RTPMEMORIA.png",|PT| RTP MEMORIA
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9086.ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="|PT| TVI" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TVI.png",|PT| TVI
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9052.ts
+#EXTINF:-1 tvg-id="276530" tvg-name="|PT| TVI INTERNATIONAL" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TVI.png",|PT| TVI INTERNATIONAL
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/276530.ts
+#EXTINF:-1 tvg-id="276526" tvg-name="|PT| TVI REALITY CAMERA 1" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TVI.png",|PT| TVI REALITY CAMERA 1
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/276526.ts
+#EXTINF:-1 tvg-id="276527" tvg-name="|PT| TVI REALITY CAMERA 2" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TVI.png",|PT| TVI REALITY CAMERA 2
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/276527.ts
+#EXTINF:-1 tvg-id="276528" tvg-name="|PT| TVI REALITY CAMERA 3" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TVI.png",|PT| TVI REALITY CAMERA 3
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/276528.ts
+#EXTINF:-1 tvg-id="276529" tvg-name="|PT| TVI REALITY CAMERA 4" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TVI.png",|PT| TVI REALITY CAMERA 4
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/276529.ts
+#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="|PT| TVI 24" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TVI.png",|PT| TVI 24
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9051.ts
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="|PT| TVI REALITY" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TVI.png",|PT| TVI REALITY
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9049.ts
+#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="|PT| TVI FICCAO" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TVI.png",|PT| TVI FICCAO
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/58414.ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="|PT| SIC ᴴᴰ" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SIC.png",|PT| SIC ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9085.ts
+#EXTINF:-1 tvg-id="siccaras.pt" tvg-name="|PT| SIC CARAS" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SICCARAS.png",|PT| SIC CARAS
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283074.ts
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="|PT| SIC RADICAL" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SICRADICAL.png",|PT| SIC RADICAL
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9082.ts
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="|PT| SIC NOTICIAS" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SICNOTICIAS.png",|PT| SIC NOTICIAS
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9083.ts
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="|PT| SIC MULHER" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SICMULHER.png",|PT| SIC MULHER
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9084.ts
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="|PT| CMTV" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/CMTV.png",|PT| CMTV
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9136.ts
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="|PT| SYFY" group-title="|PT| ✪ CINEMA" tvg-logo="http://138.199.27.237:8080/0tv_logo/5068.png",|PT| SYFY
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9070.ts
+#EXTINF:-1 tvg-id="artv.pt" tvg-name="|PT| ARTV" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/ARTV.png",|PT| ARTV
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283059.ts
+#EXTINF:-1 tvg-id="casaecozinha.pt" tvg-name="|PT| CASA E COZINHA ᴴᴰ" group-title="|PT| ✪ EMGERAL" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/logo-casa-e-cozinha.png",|PT| CASA E COZINHA ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283065.ts
+#EXTINF:-1 tvg-id="283066" tvg-name="|PT| CBS REALITY" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/CBSREALITY.png",|PT| CBS REALITY
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283066.ts
+#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="|PT| FUEL TV" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/FUELTV.png",|PT| FUEL TV
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283069.ts
+#EXTINF:-1 tvg-id="tpainternational.pt" tvg-name="|PT| TPA INTERNACIONAL" group-title="|PT| ✪ EMGERAL" tvg-logo="http://www.semba-c.com/site/uploads/images/20151123143736_0.PNG",|PT| TPA INTERNACIONAL
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283076.ts
+#EXTINF:-1 tvg-id="zapviva.pt" tvg-name="|PT| ZAP VIVA ᴴᴰ" group-title="|PT| ✪ EMGERAL" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/ZAPVIVA.png",|PT| ZAP VIVA ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283079.ts
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="|PT| AXN ᴴᴰ" group-title="|PT| ✪ CINEMA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/axnhd.png",|PT| AXN ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9149.ts
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="|PT| AXN WHITE ᴴᴰ" group-title="|PT| ✪ CINEMA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/axnwhite.png",|PT| AXN WHITE ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9148.ts
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="|PT| E ENTERTAINMENT" group-title="|PT| ✪ CINEMA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/eentertenmant.png",|PT| E ENTERTAINMENT
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9130.ts
+#EXTINF:-1 tvg-id="116510" tvg-name="|PT| TCV CABO" group-title="|PT| ✪ EMGERAL" tvg-logo="",|PT| TCV CABO
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/116510.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="|PT| FOX ᴴᴰ" group-title="|PT| ✪ CINEMA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/fox.png",|PT| FOX ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9116.ts
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="|PT| FOX COMEDY" group-title="|PT| ✪ CINEMA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/foxcomedy.png",|PT| FOX COMEDY
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9118.ts
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="|PT| FOX CRIME" group-title="|PT| ✪ CINEMA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/foxcrime.png",|PT| FOX CRIME
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9117.ts
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="|PT| FOX LIFE ᴴᴰ" group-title="|PT| ✪ CINEMA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/foxlife.png",|PT| FOX LIFE ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9115.ts
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="|PT| FOX MOVIES" group-title="|PT| ✪ CINEMA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/foxmovies.png",|PT| FOX MOVIES
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9114.ts
+#EXTINF:-1 tvg-id="tvcine1.pt" tvg-name="|PT| TV CINE EMOTION ᵁᴴᴰ" group-title="|PT| ✪ CINEMA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/tvcineemotion.png",|PT| TV CINE EMOTION ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9060.ts
+#EXTINF:-1 tvg-id="tvcine2.pt" tvg-name="|PT| TV CINE EMOTION ᵁᴴᴰ" group-title="|PT| ✪ CINEMA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/tvcineemotion.png",|PT| TV CINE EMOTION ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9058.ts
+#EXTINF:-1 tvg-id="tvcine2.pt" tvg-name="|PT| TV CINE EMOTION" group-title="|PT| ✪ CINEMA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/tvcineemotion.png",|PT| TV CINE EMOTION
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9059.ts
+#EXTINF:-1 tvg-id="tvcine3.pt" tvg-name="|PT| TV CINE TOP ᵁᴴᴰ" group-title="|PT| ✪ CINEMA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/tvcineedition.png",|PT| TV CINE TOP ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9057.ts
+#EXTINF:-1 tvg-id="tvcine4.pt" tvg-name="|PT| TV CINE ACTION ᵁᴴᴰ" group-title="|PT| ✪ CINEMA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/tvcineaction.png",|PT| TV CINE ACTION ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9056.ts
+#EXTINF:-1 tvg-id="tvcine4.pt" tvg-name="|PT| TV CINE ACTION" group-title="|PT| ✪ CINEMA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/tvcineaction.png",|PT| TV CINE ACTION
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9055.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="|PT| TV CINE EDITION ᴴᴰ" group-title="|PT| ✪ CINEMA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/tvcineedition.png",|PT| TV CINE EDITION ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283078.ts
+#EXTINF:-1 tvg-id="amchd.pt" tvg-name="|PT| AMC ᵁᴴᴰ" group-title="|PT| ✪ CINEMA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/amc.png",|PT| AMC ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283055.ts
+#EXTINF:-1 tvg-id="amchd.pt" tvg-name="|PT| AMC" group-title="|PT| ✪ CINEMA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/amc.png",|PT| AMC
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283056.ts
+#EXTINF:-1 tvg-id="amchd.pt" tvg-name="|PT| AMC BREAK" group-title="|PT| ✪ CINEMA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/amc.png",|PT| AMC BREAK
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283057.ts
+#EXTINF:-1 tvg-id="amchd.pt" tvg-name="|PT| AMC CRIME" group-title="|PT| ✪ CINEMA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/amc.png",|PT| AMC CRIME
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283058.ts
+#EXTINF:-1 tvg-id="nosstudioshd.pt" tvg-name="|PT| NOS STUDIOS ᴴᴰ" group-title="|PT| ✪ CINEMA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/nos.png",|PT| NOS STUDIOS ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283073.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="|PT| CINE MUNDO" group-title="|PT| ✪ CINEMA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/cinemundo.png",|PT| CINE MUNDO
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9137.ts
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="|PT| HOLLYWOOD ᵁᴴᴰ" group-title="|PT| ✪ CINEMA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/khdhollywood.png",|PT| HOLLYWOOD ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9112.ts
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="|PT| A BOLA TV" group-title="|PT| ✪ CINEMA" tvg-logo="http://138.199.27.237:8080/0tv_logo/2157.png",|PT| A BOLA TV
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9153.ts
+#EXTINF:-1 tvg-id="canalq.pt" tvg-name="|PT| CANAL NOS" group-title="|PT| ✪ CINEMA" tvg-logo="https://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/canalnos/logo-white.png",|PT| CANAL NOS
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9141.ts
+#EXTINF:-1 tvg-id="canalq.pt" tvg-name="|PT| CANAL Q" group-title="|PT| ✪ CINEMA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/canalq.png",|PT| CANAL Q
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9139.ts
+#EXTINF:-1 tvg-id="rtpacores.pt" tvg-name="|PT| RTP ACORES" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/RTPACORES.png",|PT| RTP ACORES
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9090.ts
+#EXTINF:-1 tvg-id="rtpmadeira.pt" tvg-name="|PT| RTP MADEIRA" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/RTPMADEIRA.png",|PT| RTP MADEIRA
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9087.ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="|PT| TVI ᵁᴴᴰ" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TVI.png",|PT| TVI ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9050.ts
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="|PT| SPORT TV +   ᴴᴰ" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV.png",|PT| SPORT TV +   ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9081.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="|PT| SPORT TV  1 ᵁᴴᴰ" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV.png",|PT| SPORT TV  1 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9079.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="|PT| SPORT TV  1" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV.png",|PT| SPORT TV  1
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9080.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="|PT |SPORT TV  2 ᵁᴴᴰ" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV.png",|PT |SPORT TV  2 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9077.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="|PT| SPORT TV  2" group-title="|PT| ✪ ESPORTES" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/sporttv-2.png",|PT| SPORT TV  2
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9078.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="|PT| SPORT TV  3 ᵁᴴᴰ" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV.png",|PT| SPORT TV  3 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9075.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="|PT| SPORT TV  3" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV.png",|PT| SPORT TV  3
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9076.ts
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="|PT| SPORT TV  4" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV.png",|PT| SPORT TV  4
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9074.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="|PT| SPORT TV 5" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV.png",|PT| SPORT TV 5
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9072.ts
+#EXTINF:-1 tvg-id="225805" tvg-name="|PT| SPORT  TV 6 ᴴᴰ" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTTV.png",|PT| SPORT  TV 6 ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/225805.ts
+#EXTINF:-1 tvg-id="1270848" tvg-name="|PT| SPORT TV7" group-title="|PT| ✪ ESPORTES" tvg-logo="",|PT| SPORT TV7
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1270848.ts
+#EXTINF:-1 tvg-id="403744" tvg-name="|PT| DAZN ELEVEN 1 ᴴᴰ" group-title="|PT| ✪ ESPORTES" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12401.jpg?ver=50787",|PT| DAZN ELEVEN 1 ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/403744.ts
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="|PT| DAZN SPORTS 1" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/ELEVENSPORTS.png",|PT| DAZN SPORTS 1
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9129.ts
+#EXTINF:-1 tvg-id="403745" tvg-name="|PT|DAZN ELEVEN 2 ᴴᴰ" group-title="|PT| ✪ ESPORTES" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12401.jpg?ver=50787",|PT|DAZN ELEVEN 2 ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/403745.ts
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="|PT| DAZN  SPORTS 2" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/ELEVENSPORTS.png",|PT| DAZN  SPORTS 2
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9128.ts
+#EXTINF:-1 tvg-id="403746" tvg-name="|PT|DAZN ELEVEN 3 ᴴᴰ" group-title="|PT| ✪ ESPORTES" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12401.jpg?ver=50787",|PT|DAZN ELEVEN 3 ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/403746.ts
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="|PT| DAZN  SPORTS 3" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/ELEVENSPORTS.png",|PT| DAZN  SPORTS 3
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9127.ts
+#EXTINF:-1 tvg-id="403747" tvg-name="|PT|DAZN ELEVEN 4 ᴴᴰ" group-title="|PT| ✪ ESPORTES" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12401.jpg?ver=50787",|PT|DAZN ELEVEN 4 ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/403747.ts
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="|PT| DAZN  SPORTS 4" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/ELEVENSPORTS.png",|PT| DAZN  SPORTS 4
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9126.ts
+#EXTINF:-1 tvg-id="403748" tvg-name="|PT|DAZN ELEVEN 5 ᴴᴰ" group-title="|PT| ✪ ESPORTES" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12401.jpg?ver=50787",|PT|DAZN ELEVEN 5 ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/403748.ts
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="|PT| DAZN  SPORTS 5" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/ELEVENSPORTS.png",|PT| DAZN  SPORTS 5
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9125.ts
+#EXTINF:-1 tvg-id="403749" tvg-name="|PT| DAZN ELEVEN 6 ᴴᴰ" group-title="|PT| ✪ ESPORTES" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12401.jpg?ver=50787",|PT| DAZN ELEVEN 6 ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/403749.ts
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="|PT| EUROSPORT 1" group-title="|PT| ✪ ESPORTES" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/EUROSPORT.png",|PT| EUROSPORT 1
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9122.ts
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="|PT| EUROSPORT 1 ᵁᴴᴰ" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/EUROSPORT1.png",|PT| EUROSPORT 1 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9120.ts
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="|PT| EUROSPORT 1" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/EUROSPORT1.png",|PT| EUROSPORT 1
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9121.ts
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="|PT| EUROSPORT 2" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/EUROSPORT2.png",|PT| EUROSPORT 2
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9119.ts
+#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="|PT| BENFICA TV ᵁᴴᴰ" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/BENFICATV1HD.png",|PT| BENFICA TV ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/511025.ts
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="|PT| BENFICA TV ᴴᴰ" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/BENFICATV1HD.png",|PT| BENFICA TV ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9147.ts
+#EXTINF:-1 tvg-id="porto.pt" tvg-name="|PT| PORTO CANAL" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/PORTOCANAL.png",|PT| PORTO CANAL
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9095.ts
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="|PT| REAL MADRID TV" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/REALMADRIDTV.png",|PT| REAL MADRID TV
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9094.ts
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="|PT| SPORTING TV ᴴᴰ" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SPORTINGTV.png",|PT| SPORTING TV ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9071.ts
+#EXTINF:-1 tvg-id="89875" tvg-name="|PT| CANAL 11" group-title="|PT| ✪ ESPORTES" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/cannal11.png",|PT| CANAL 11
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/89875.ts
+#EXTINF:-1 tvg-id="kombatsport.pt" tvg-name="|PT| KOMBAT SPORT" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/KOMBATSPORT.png",|PT| KOMBAT SPORT
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9110.ts
+#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="|PT| MOTORVISION" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/MOTORVISION.png",|PT| MOTORVISION
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9106.ts
+#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="|PT| MOTORS TV" group-title="|PT| ✪ ESPORTES" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/motorvision.png",|PT| MOTORS TV
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9107.ts
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="|PT| NBA TV" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png",|PT| NBA TV
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9099.ts
+#EXTINF:-1 tvg-id="toros.pt" tvg-name="|PT| TOROS TV" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TOROS.png",|PT| TOROS TV
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9068.ts
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="|PT| PFC ᴴᴰ" group-title="|PT| ✪ ESPORTES" tvg-logo="http://138.199.27.237:8080/PORTUGAL/PFC.png",|PT| PFC ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9096.ts
+#EXTINF:-1 tvg-id="blazehd.pt" tvg-name="|PT| BLAZE TV" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/BLAZE.png",|PT| BLAZE TV
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283063.ts
+#EXTINF:-1 tvg-id="mtv.pt" tvg-name="|PT| MTV DANCE" group-title="|PT| ✪ MUSIC" tvg-logo="http://138.199.27.237:8080/PORTUGAL/MTVPORTUGAL.png",|PT| MTV DANCE
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9105.ts
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="|PT| MTV HITS" group-title="|PT| ✪ MUSIC" tvg-logo="http://138.199.27.237:8080/PORTUGAL/MTVPORTUGAL.png",|PT| MTV HITS
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9104.ts
+#EXTINF:-1 tvg-id="mtv.pt" tvg-name="|PT| MTV PORTUGAL" group-title="|PT| ✪ MUSIC" tvg-logo="http://138.199.27.237:8080/PORTUGAL/MTVPORTUGAL.png",|PT| MTV PORTUGAL
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9103.ts
+#EXTINF:-1 tvg-id="mtv.pt" tvg-name="|PT| MTV ROCKS" group-title="|PT| ✪ MUSIC" tvg-logo="http://138.199.27.237:8080/PORTUGAL/MTVPORTUGAL.png",|PT| MTV ROCKS
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9102.ts
+#EXTINF:-1 tvg-id="vh1.pt" tvg-name="|PT| VH1" group-title="|PT| ✪ MUSIC" tvg-logo="http://138.199.27.237:8080/PORTUGAL/VH1.png",|PT| VH1
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9048.ts
+#EXTINF:-1 tvg-id="vh1.pt" tvg-name="|PT| VH1 CLASSIC" group-title="|PT| ✪ MUSIC" tvg-logo="http://138.199.27.237:8080/PORTUGAL/VH1.png",|PT| VH1 CLASSIC
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9047.ts
+#EXTINF:-1 tvg-id="mcmtophd.pt" tvg-name="|PT| MCM POP" group-title="|PT| ✪ MUSIC" tvg-logo="http://138.199.27.237:8080/PORTUGAL/MCMPOP.png",|PT| MCM POP
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9109.ts
+#EXTINF:-1 tvg-id="afromusicchannel.pt" tvg-name="|PT| AFRO MUSIC" group-title="|PT| ✪ MUSIC" tvg-logo="http://138.199.27.237:8080/PORTUGAL/AFROMUSIC.png",|PT| AFRO MUSIC
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9151.ts
+#EXTINF:-1 tvg-id="traceurban.pt" tvg-name="|PT| TRACE URBAN" group-title="|PT| ✪ MUSIC" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TRACEURBAN.png",|PT| TRACE URBAN
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9067.ts
+#EXTINF:-1 tvg-id="tracetoca.pt" tvg-name="|PT| TRACE TOCA" group-title="|PT| ✪ MUSIC" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCEFHD/TRACEAFRICA.png",|PT| TRACE TOCA
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283077.ts
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="|PT| 24 KITCHEN ᵁᴴᴰ" group-title="|PT| ✪ DOCUMENTARIO" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/24kitchen.png",|PT| 24 KITCHEN ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9154.ts
+#EXTINF:-1 tvg-id="tlc.pt" tvg-name="|PT| TLC" group-title="|PT| ✪ DOCUMENTARIO" tvg-logo="http://138.199.27.237:8080/0tv_logo/3503.png",|PT| TLC
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9069.ts
+#EXTINF:-1 tvg-id="cacavision.pt" tvg-name="|PT| CACAVISION" group-title="|PT| ✪ DOCUMENTARIO" tvg-logo="http://138.199.27.237:8080/PORTUGAL/CACAVISION.png",|PT| CACAVISION
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9143.ts
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="|PT| HISTORIA" group-title="|PT| ✪ DOCUMENTARIO" tvg-logo="http://138.199.27.237:8080/PORTUGAL/HISTORIAHD.png",|PT| HISTORIA
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9113.ts
+#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-name="|PT| CACA E PESCA" group-title="|PT| ✪ DOCUMENTARIO" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/cacaepesca.png",|PT| CACA E PESCA
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9144.ts
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="|PT| DISCOVERY CHANNEL" group-title="|PT| ✪ DOCUMENTARIO" tvg-logo="http://138.199.27.237:8080/AMERICA/CARIBBIEAN/DISCOVERY-CHANNEL.png",|PT| DISCOVERY CHANNEL
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9135.ts
+#EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="|PT| TRAVEL CHANNEL ᵁᴴᴰ" group-title="|PT| ✪ DOCUMENTARIO" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TRAVELCHANNELHD.png",|PT| TRAVEL CHANNEL ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9066.ts
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="|PT| NAT GEO ᴴᴰ" group-title="|PT| ✪ DOCUMENTARIO" tvg-logo="http://138.199.27.237:8080/0tv_logo/5079.png",|PT| NAT GEO ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9101.ts
+#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="|PT| NAT GEO WILD" group-title="|PT| ✪ DOCUMENTARIO" tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png",|PT| NAT GEO WILD
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9100.ts
+#EXTINF:-1 tvg-id="mezzo.pt" tvg-name="|PT| MEZZO" group-title="|PT| ✪ DOCUMENTARIO" tvg-logo="http://138.199.27.237:8080/PORTUGAL/MEZZO.png",|PT| MEZZO
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9108.ts
+#EXTINF:-1 tvg-id="discoveryshowcase.pt" tvg-name="|PT| DISCOVERY ᵁᴴᴰ" group-title="|PT| ✪ DOCUMENTARIO" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/discoveryhd.png",|PT| DISCOVERY ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9134.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="|PT| ID INVESTIGATION DISCOVERY ᴴᴰ" group-title="|PT| ✪ DOCUMENTARIO" tvg-logo="http://138.199.27.237:8080/AUSTRALIA/Investigation_Discovery.png",|PT| ID INVESTIGATION DISCOVERY ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283070.ts
+#EXTINF:-1 tvg-id="crimeinvestigation.pt" tvg-name="|PT| CRIME INVESTIGATION" group-title="|PT| ✪ DOCUMENTARIO" tvg-logo="http://138.199.27.237:8080/PORTUGAL/CRIMEINVESTIGATION.png",|PT| CRIME INVESTIGATION
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283067.ts
+#EXTINF:-1 tvg-id="283068" tvg-name="|PT| DOG TV ᵁᴴᴰ" group-title="|PT| ✪ DOCUMENTARIO" tvg-logo="http://138.199.27.237:8080/PORTUGAL/DOGTV.png",|PT| DOG TV ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283068.ts
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="|PT| ODISSEIA" group-title="|PT| ✪ DOCUMENTARIO" tvg-logo="http://138.199.27.237:8080/PORTUGAL/ODISSEIA.png",|PT| ODISSEIA
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9097.ts
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="|PT| TV FATIMA" group-title="|PT| ✪ DOCUMENTARIO" tvg-logo="https://www.wtvision.com/wp-content/uploads/Fatima-tv-2.jpg",|PT| TV FATIMA
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9065.ts
+#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="|PT| NICKELODEON" group-title="|PT| ✪ CRIANCAS" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png",|PT| NICKELODEON
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9098.ts
+#EXTINF:-1 tvg-id="nickjr.pt" tvg-name="|PT| NICKELODEON JUNIOR" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/NICKELODEON.png",|PT| NICKELODEON JUNIOR
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283072.ts
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="|PT| Canal Panda ᴴᴰ" group-title="|PT| ✪ CRIANCAS" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/canalpanda.png",|PT| Canal Panda ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9140.ts
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="|PT| DISNEY CHANNEL" group-title="|PT| ✪ CRIANCAS" tvg-logo="http://138.199.27.237:8080/0tv_logo/5073.png",|PT| DISNEY CHANNEL
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9133.ts
+#EXTINF:-1 tvg-id="disneyjunior.pt" tvg-name="|PT| DISNEY JUNIOR" group-title="|PT| ✪ CRIANCAS" tvg-logo="http://138.199.27.237:8080/0tv_logo/5074.png",|PT| DISNEY JUNIOR
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9132.ts
+#EXTINF:-1 tvg-id="disneyjunior.pt" tvg-name="|PT| DISNEY JUNIOR (test)" group-title="|PT| ✪ CRIANCAS" tvg-logo="http://138.199.27.237:8080/0tv_logo/5074.png",|PT| DISNEY JUNIOR (test)
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9131.ts
+#EXTINF:-1 tvg-id="babytv.pt" tvg-name="|PT| BABY TV" group-title="|PT| ✪ CRIANCAS" tvg-logo="http://138.199.27.237:8080/PORTUGAL/BABYTV.png",|PT| BABY TV
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283060.ts
+#EXTINF:-1 tvg-id="283071" tvg-name="|PT| LOLLY KIDS" group-title="|PT| ✪ CRIANCAS" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/LOLLYKIDSs.png",|PT| LOLLY KIDS
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283071.ts
+#EXTINF:-1 tvg-id="biggs.pt" tvg-name="|PT| BIGGS" group-title="|PT| ✪ CRIANCAS" tvg-logo="http://138.199.27.237:8080/PORTUGAL/BIGGS.png",|PT| BIGGS
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9146.ts
+#EXTINF:-1 tvg-id="bbcworldnews.pt" tvg-name="|PT| BLOOMBERG" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/BLOOMBERG.png",|PT| BLOOMBERG
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9145.ts
+#EXTINF:-1 tvg-id="276532" tvg-name="|PT| BOOMERANG ᴴᴰ" group-title="|PT| ✪ CRIANCAS" tvg-logo="http://138.199.27.237:8080/0tv_logo/5070.png",|PT| BOOMERANG ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/276532.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="|PT| CARTOON NETWORK" group-title="|PT| ✪ CRIANCAS" tvg-logo="http://138.199.27.237:8080/PORTUGAL/CARTOONNETWORK.png",|PT| CARTOON NETWORK
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9138.ts
+#EXTINF:-1 tvg-id="jimjam.pt" tvg-name="|PT| JIM JAM" group-title="|PT| ✪ CRIANCAS" tvg-logo="http://138.199.27.237:8080/PORTUGAL/JIMJAM.png",|PT| JIM JAM
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9111.ts
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="|PT| TV GLOBO ᴴᴰ" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/GLOBO.png",|PT| TV GLOBO ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9063.ts
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="|PT| TV GLOBO" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/GLOBO.png",|PT| TV GLOBO
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9064.ts
+#EXTINF:-1 tvg-id="recordtv.pt" tvg-name="|PT| TV RECORD" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/RECORDHD.png",|PT| TV RECORD
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9062.ts
+#EXTINF:-1 tvg-id="283064" tvg-name="|PT| CAMPO PEQUENO TV ᴴᴰ" group-title="|PT| ✪ EMGERAL" tvg-logo="http://www.campopequeno.com/img/campopequenotv_logo.png?ass",|PT| CAMPO PEQUENO TV ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283064.ts
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="|PT| EURONEWS" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/EURONEWS.png",|PT| EURONEWS
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9123.ts
+#EXTINF:-1 tvg-id="bbcworldnews.pt" tvg-name="|PT| BBC WORLD NEWS" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/BBCWORLDNEWS.png",|PT| BBC WORLD NEWS
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283062.ts
+#EXTINF:-1 tvg-id="skynews.pt" tvg-name="|PT| SKY NEWS" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/SKYNEWS.png",|PT| SKY NEWS
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/283075.ts
+#EXTINF:-1 tvg-id="cnnportugal.pt" tvg-name="|PT| CNN PORTUGAL" group-title="|PT| ✪ EMGERAL" tvg-logo="https://lo1.in/por/cnn1.png",|PT| CNN PORTUGAL
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1097132.ts
+#EXTINF:-1 tvg-id="tpainternational.pt" tvg-name="|PT| TVE INTERNACIONAL" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TVEI.png",|PT| TVE INTERNACIONAL
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9053.ts
+#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="|PT| TVE 24H" group-title="|PT| ✪ EMGERAL" tvg-logo="http://138.199.27.237:8080/PORTUGAL/TVE24H.png",|PT| TVE 24H
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/9054.ts
+#EXTINF:-1 tvg-id="1164986" tvg-name="BR| A FAZENDA 2024 1" group-title="|LAT| ✪ BRAZIL" tvg-logo="",BR| A FAZENDA 2024 1
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1164986.ts
+#EXTINF:-1 tvg-id="1164985" tvg-name="BR| A FAZENDA 2024 2" group-title="|LAT| ✪ BRAZIL" tvg-logo="",BR| A FAZENDA 2024 2
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1164985.ts
+#EXTINF:-1 tvg-id="1164984" tvg-name="BR| A FAZENDA 2024 3" group-title="|LAT| ✪ BRAZIL" tvg-logo="",BR| A FAZENDA 2024 3
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1164984.ts
+#EXTINF:-1 tvg-id="1164983" tvg-name="BR| A FAZENDA 2024 4" group-title="|LAT| ✪ BRAZIL" tvg-logo="",BR| A FAZENDA 2024 4
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1164983.ts
+#EXTINF:-1 tvg-id="1164982" tvg-name="BR| A FAZENDA 2024 5" group-title="|LAT| ✪ BRAZIL" tvg-logo="",BR| A FAZENDA 2024 5
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/1164982.ts
+#EXTINF:-1 tvg-id="amc.br" tvg-name="|BR| AMC ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/AMC.png",|BR| AMC ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28887.ts
+#EXTINF:-1 tvg-id="band.br" tvg-name="|BR| BAND ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/BAND.png",|BR| BAND ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28932.ts
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="|BR| BAND NEWS ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/BAND.png",|BR| BAND NEWS ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28876.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="|BR| COMBATE ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/COMBATEHD.png",|BR| COMBATE ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28860.ts
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="|BR| COMEDY CENTRAL ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/COMEDYCENTRAL.png",|BR| COMEDY CENTRAL ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28905.ts
+#EXTINF:-1 tvg-id="298482" tvg-name="|BR| FILM & ARTS" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/MEXICO/FILMANDARTS.png",|BR| FILM & ARTS
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/298482.ts
+#EXTINF:-1 tvg-id="redebrasil.br" tvg-name="|BR| REDE TV ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/REDETVHD.png",|BR| REDE TV ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28931.ts
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="|BR| REDE VIDA" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/REDETVHD.png",|BR| REDE VIDA
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28816.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="|BR| SPACE ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/SPACE.png",|BR| SPACE ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28884.ts
+#EXTINF:-1 tvg-id="off.br" tvg-name="|BR| OFF ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/OFFHD.png",|BR| OFF ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28861.ts
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="|BR| RECORD ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Logo_of_Rede_Record.png",|BR| RECORD ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28934.ts
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="|BR| RECORD NEWS ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3d/Rede_record_news.jpg",|BR| RECORD NEWS ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28875.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="|BR| TNT ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/TNT.png",|BR| TNT ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28889.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="|BR| SBT ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/SBT1986.png",|BR| SBT ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28933.ts
+#EXTINF:-1 tvg-id="sony.br" tvg-name="|BR| CANAL  SONY" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/SONYCHANNEL.png",|BR| CANAL  SONY
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28830.ts
+#EXTINF:-1 tvg-id="sony.br" tvg-name="|BR| SONY  ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/SONY.png",|BR| SONY  ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28885.ts
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="|BR| SYFY ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/0tv_logo/5068.png",|BR| SYFY ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28820.ts
+#EXTINF:-1 tvg-id="28890" tvg-name="|BR| SYFY ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/0tv_logo/5068.png",|BR| SYFY ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28890.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="|BR| UNIVERSAL CHANNEL ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/UNIVERSALCHANNEL.png",|BR| UNIVERSAL CHANNEL ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28841.ts
+#EXTINF:-1 tvg-id="viva.br" tvg-name="|BR| VIVA ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/zao.viva.png",|BR| VIVA ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28823.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="|BR| UNIVERSAL CHANNEL ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/UNIVERSALCHANNEL.png",|BR| UNIVERSAL CHANNEL ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28899.ts
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="|BR| WARNER CHANNEL ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/WARNERCHANNEL.png",|BR| WARNER CHANNEL ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28907.ts
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="|BR| WOOHOO ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/WOOHOO.png",|BR| WOOHOO ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28834.ts
+#EXTINF:-1 tvg-id="28902" tvg-name="|BR| FOX PREMIUM  2 ᴴᴰ" group-title="|LAT|  ✪ BR SPORTS" tvg-logo="http://138.199.27.237:8080/LATINO/FOXPREMIUM2HD.png",|BR| FOX PREMIUM  2 ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28902.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="|BR| TLC ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/0tv_logo/3503.png",|BR| TLC ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28827.ts
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="|BR| E! ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/0tv_logo/5067.png",|BR| E! ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28821.ts
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="|BR| REDE NEW" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/REDETVHD.png",|BR| REDE NEW
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28835.ts
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="|BR| FOOD NETWORK ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/MEXICO/FOODNETWORK.png",|BR| FOOD NETWORK ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28814.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="|BR| FOX ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/FOX.png",|BR| FOX ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28904.ts
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="|BR| FOX LIFE ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/FOXLIFE.png",|BR| FOX LIFE ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28903.ts
+#EXTINF:-1 tvg-id="28901" tvg-name="|BR| FOX PREMIUM ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/FOXPREMIUM1HD.png",|BR| FOX PREMIUM ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28901.ts
+#EXTINF:-1 tvg-id="fx.br" tvg-name="|BR| FX ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/0tv_logo/5110.png",|BR| FX ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28897.ts
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="|BR| GNT ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GNTHD.png",|BR| GNT ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28895.ts
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="|BR| LIFETIME ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/LIFETIME.png",|BR| LIFETIME ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28819.ts
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="|BR| MTV ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/MTV..png",|BR| MTV ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28832.ts
+#EXTINF:-1 tvg-id="mtvlive.br" tvg-name="|BR| MTV LIVE ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/MTV..png",|BR| MTV LIVE ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28831.ts
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="|BR| VH1 ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/VH1.png",|BR| VH1 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/297077.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="|BR| MULTISHOW ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/MULTISHOW.png",|BR| MULTISHOW ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28893.ts
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="|BR| FOX SPORTS ᴴᴰ" group-title="|LAT|  ✪ BR SPORTS" tvg-logo="http://138.199.27.237:8080/LATINO/FOXSPORT.png",|BR| FOX SPORTS ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28870.ts
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="|BR| FOX SPORTS 2 ᴴᴰ" group-title="|LAT|  ✪ BR SPORTS" tvg-logo="http://138.199.27.237:8080/0tv_logo/3514.png",|BR| FOX SPORTS 2 ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28869.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="|BR| SPORTV ᴴᴰ" group-title="|LAT|  ✪ BR SPORTS" tvg-logo="http://138.199.27.237:8080/LATINO/SPORTV.png",|BR| SPORTV ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28873.ts
+#EXTINF:-1 tvg-id="529978" tvg-name="|BR| SPORTIV 2 ᴴᴰ" group-title="|LAT|  ✪ BR SPORTS" tvg-logo="",|BR| SPORTIV 2 ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/529978.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="|BR| SPORT TV 3 ᴴᴰ" group-title="|LAT|  ✪ BR SPORTS" tvg-logo="http://138.199.27.237:8080/LATINO/SPORTV.png",|BR| SPORT TV 3 ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28871.ts
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="|BR| ESPN INTERNACIONAL ᴴᴰ" group-title="|LAT|  ✪ BR SPORTS" tvg-logo="http://138.199.27.237:8080/LATINO/ESPN.png",|BR| ESPN INTERNACIONAL ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28864.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="|BR| ESPN ᴴᴰ" group-title="|LAT|  ✪ BR SPORTS" tvg-logo="http://138.199.27.237:8080/LATINO/ESPN.png",|BR| ESPN ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28865.ts
+#EXTINF:-1 tvg-id="288691" tvg-name="|BR| PARAMOUNT+ 01 ᵁᴴᴰ" group-title="|LAT|  ✪ BR SPORTS" tvg-logo="http://138.199.27.237:8080/LATINO/PARAMOUNT.png",|BR| PARAMOUNT+ 01 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/288691.ts
+#EXTINF:-1 tvg-id="288692" tvg-name="|BR| PARAMOUNT+ 02 ᵁᴴᴰ" group-title="|LAT|  ✪ BR SPORTS" tvg-logo="http://138.199.27.237:8080/LATINO/PARAMOUNT.png",|BR| PARAMOUNT+ 02 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/288692.ts
+#EXTINF:-1 tvg-id="288693" tvg-name="|BR| PARAMOUNT+ 03 ᵁᴴᴰ" group-title="|LAT|  ✪ BR SPORTS" tvg-logo="http://138.199.27.237:8080/LATINO/PARAMOUNT.png",|BR| PARAMOUNT+ 03 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/288693.ts
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="|BR| PARAMOUNT+ 04 ᵁᴴᴰ" group-title="|LAT|  ✪ BR SPORTS" tvg-logo="http://138.199.27.237:8080/LATINO/PARAMOUNT.png",|BR| PARAMOUNT+ 04 ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/288694.ts
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="|BR| PREMIERE 2 ᴴᴰ" group-title="|LAT|  ✪ BR SPORTS" tvg-logo="http://138.199.27.237:8080/LATINO/PREMIERE.png",|BR| PREMIERE 2 ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28928.ts
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="|BR| PREMIERE 3 ᴴᴰ" group-title="|LAT|  ✪ BR SPORTS" tvg-logo="http://138.199.27.237:8080/LATINO/PREMIERE.png",|BR| PREMIERE 3 ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28927.ts
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="|BR| PREMIERE 4 ᴴᴰ" group-title="|LAT|  ✪ BR SPORTS" tvg-logo="http://138.199.27.237:8080/LATINO/PREMIERE.png",|BR| PREMIERE 4 ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28926.ts
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="|BR| PREMIERE 5 ᴴᴰ" group-title="|LAT|  ✪ BR SPORTS" tvg-logo="http://138.199.27.237:8080/LATINO/PREMIERE.png",|BR| PREMIERE 5 ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28925.ts
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="|BR| PREMIERE 6 ᴴᴰ" group-title="|LAT|  ✪ BR SPORTS" tvg-logo="http://138.199.27.237:8080/LATINO/PREMIERE.png",|BR| PREMIERE 6 ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28924.ts
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="|BR| PREMIERE 7 ᴴᴰ" group-title="|LAT|  ✪ BR SPORTS" tvg-logo="http://138.199.27.237:8080/LATINO/PREMIERE.png",|BR| PREMIERE 7 ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28923.ts
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="|BR| PREMIERE CLUBES ᴴᴰ" group-title="|LAT|  ✪ BR SPORTS" tvg-logo="http://138.199.27.237:8080/LATINO/PREMIERE.png",|BR| PREMIERE CLUBES ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28863.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="|BR| BAND SPORTS ᴴᴰ" group-title="|LAT|  ✪ BR SPORTS" tvg-logo="http://138.199.27.237:8080/LATINO/BANDSPORTS.png",|BR| BAND SPORTS ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28868.ts
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="|BR| PARAMOUNT ᴴᴰ" group-title="|LAT|  ✪ BR SPORTS" tvg-logo="http://138.199.27.237:8080/LATINO/PARAMOUNT.png",|BR| PARAMOUNT ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28892.ts
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="|BR| STUDIO UNIVERSAL ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/STUDIOUNIVERSAL.png",|BR| STUDIO UNIVERSAL ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28908.ts
+#EXTINF:-1 tvg-id="28858" tvg-name="|BR| BOOMERANG ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/0tv_logo/5070.png",|BR| BOOMERANG ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28858.ts
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="|BR| CNN Espanol" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/CNN.png",|BR| CNN Espanol
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/297079.ts
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="|BR| CNN INTERNATIONAL" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/CNN.png",|BR| CNN INTERNATIONAL
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/297078.ts
+#EXTINF:-1 tvg-id="148407" tvg-name="|BR|  GLOBO LAICA MANAUS ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO LAICA MANAUS ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148407.ts
+#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name="|BR|  GLOBO LAICA ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO LAICA ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148406.ts
+#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name="|BR|  GLOBO CENTRO AMERICA ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO CENTRO AMERICA ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148405.ts
+#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name="|BR|  GLOBO EPTV CAMPINAS ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO EPTV CAMPINAS ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148404.ts
+#EXTINF:-1 tvg-id="28896" tvg-name="|BR|  GLOBO EPTV CAMPINAS ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO EPTV CAMPINAS ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28896.ts
+#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name="|BR|  GLOBO EPTV RIBEIRAO PERTO" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO EPTV RIBEIRAO PERTO
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148403.ts
+#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name="|BR|  GLOBO EPTV SUL DE MINAS ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO EPTV SUL DE MINAS ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148402.ts
+#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name="|BR|  GLOBO EPTV SAO CARLOS" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO EPTV SAO CARLOS
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148401.ts
+#EXTINF:-1 tvg-id="148400" tvg-name="|BR|  GLOBO INTER CABUGI ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO INTER CABUGI ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148400.ts
+#EXTINF:-1 tvg-id="148399" tvg-name="|BR|  GLOBO INTER PT ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO INTER PT ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148399.ts
+#EXTINF:-1 tvg-id="148398" tvg-name="|BR|  GLOBO INTER TV ALTO LITORAL ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO INTER TV ALTO LITORAL ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148398.ts
+#EXTINF:-1 tvg-id="148397" tvg-name="|BR|  GLOBO INTER TV CABUGI ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO INTER TV CABUGI ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148397.ts
+#EXTINF:-1 tvg-id="148396" tvg-name="|BR|  GLOBO INTER TV GRANDE MINAS ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO INTER TV GRANDE MINAS ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148396.ts
+#EXTINF:-1 tvg-id="148395" tvg-name="|BR|  GLOBO MINAS ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO MINAS ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148395.ts
+#EXTINF:-1 tvg-id="148394" tvg-name="|BR|  GLOBO NOW" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO NOW
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148394.ts
+#EXTINF:-1 tvg-id="148393" tvg-name="|BR|  GLOBO NSC CENTRO DESTE ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO NSC CENTRO DESTE ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148393.ts
+#EXTINF:-1 tvg-id="148392" tvg-name="|BR|  GLOBO NSC FLORIANIPOLIS ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO NSC FLORIANIPOLIS ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148392.ts
+#EXTINF:-1 tvg-id="148391" tvg-name="|BR|  GLOBO NSC TV BLUMENAU ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO NSC TV BLUMENAU ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148391.ts
+#EXTINF:-1 tvg-id="148390" tvg-name="|BR|  GLOBO NSC TV CHAPECO ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO NSC TV CHAPECO ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148390.ts
+#EXTINF:-1 tvg-id="148389" tvg-name="|BR|  GLOBO NSC TV CRICIUMACᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO NSC TV CRICIUMACᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148389.ts
+#EXTINF:-1 tvg-id="148388" tvg-name="|BR|  GLOBO NSC TV JOINVILLE ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO NSC TV JOINVILLE ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148388.ts
+#EXTINF:-1 tvg-id="148387" tvg-name="|BR|  GLOBO RBS TV ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO RBS TV ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148387.ts
+#EXTINF:-1 tvg-id="148386" tvg-name="|BR|  GLOBO RBS TV CAXIAS DO SUL ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO RBS TV CAXIAS DO SUL ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148386.ts
+#EXTINF:-1 tvg-id="148385" tvg-name="|BR|  GLOBO RBS TV PELOTAS ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO RBS TV PELOTAS ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148385.ts
+#EXTINF:-1 tvg-id="148384" tvg-name="|BR|  GLOBO RBS TV POA ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO RBS TV POA ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148384.ts
+#EXTINF:-1 tvg-id="148383" tvg-name="|BR|  GLOBO RBS TV SANTA MARIA  ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO RBS TV SANTA MARIA  ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148383.ts
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="|BR|  GLOBO REDE LAICA ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO REDE LAICA ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148382.ts
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="|BR|  GLOBO RJ ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO RJ ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148381.ts
+#EXTINF:-1 tvg-id="148380" tvg-name="|BR|  GLOBO RPC CURITIBA ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO RPC CURITIBA ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148380.ts
+#EXTINF:-1 tvg-id="148379" tvg-name="|BR|  GLOBO RPC FOZ DO IGUACU ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO RPC FOZ DO IGUACU ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148379.ts
+#EXTINF:-1 tvg-id="148378" tvg-name="|BR|  GLOBO RPC MARINGA ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO RPC MARINGA ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148378.ts
+#EXTINF:-1 tvg-id="148377" tvg-name="|BR|  GLOBO RPC PONTA GROSSA ᵁᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR|  GLOBO RPC PONTA GROSSA ᵁᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/148377.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="|BR| GLOBO NEWS ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR| GLOBO NEWS ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28877.ts
+#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name="|BR| GLOBO NORDESTE ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR| GLOBO NORDESTE ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28867.ts
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="|BR| GLOBO PT ᴴᴰ" group-title="|LAT| ✪ BRAZIL" tvg-logo="http://138.199.27.237:8080/LATINO/GLOBOHD.png",|BR| GLOBO PT ᴴᴰ
+http://179550909263.elg-26.com:80/live/eddy39eddy39/6mf5wghixq/28879.ts
